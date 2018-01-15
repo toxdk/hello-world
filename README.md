@@ -1,2 +1,4 @@
-# hello-world - by ToxDK
+# hello-world
 Hello World - Repository
+
+by Tox
