@@ -1,4 +1,4 @@
 # hello-world
-Hello World - Repository
+Hello, World! - Repository
 
 by Tox
